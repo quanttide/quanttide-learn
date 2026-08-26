@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-learn"]
+	path = apps/qtcloud-learn
+	url = https://github.com/quanttide/qtcloud-learn.git
+[submodule "packages/quanttide-learn-toolkit"]
+	path = packages/quanttide-learn-toolkit
+	url = https://github.com/quanttide/quanttide-learn-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-learning-management.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-learning-management.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-learning-management.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-learning-management.git

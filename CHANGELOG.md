@@ -16,3 +16,4 @@
 - 注册子模块：`apps/qtcloud-learn`、`packages/quanttide-learn-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
 - 注册子模块：`data/profile`、`data/roadmap`、`data/insight`、`data/brochure`、`docs/bylaw`（档案/路线图/洞察/宣传册/章程）
+- 注册子模块：`docs/handbook`、`docs/specification`、`docs/tutorial`、`docs/essay`、`docs/gallery`（手册/规范/教程/随笔/案例集）

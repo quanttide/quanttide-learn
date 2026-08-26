@@ -29,6 +29,11 @@
 | `data/insight` | 学习管理洞察 (git submodule → quanttide-insight-of-learning-management) |
 | `data/brochure` | 学习管理宣传册 (git submodule → quanttide-brochure-of-learning-management) |
 | `docs/bylaw` | 学习管理章程 (git submodule → quanttide-bylaw-of-learning-management) |
+| `docs/handbook` | 学习管理工作手册 (git submodule → quanttide-handbook-of-learning-management) |
+| `docs/specification` | 学习管理规范 (git submodule → quanttide-specification-of-learning-management) |
+| `docs/tutorial` | 学习管理教程 (git submodule → quanttide-tutorial-of-learning-management) |
+| `docs/essay` | 学习管理随笔 (git submodule → quanttide-essay-of-learning-management) |
+| `docs/gallery` | 学习管理案例集 (git submodule → quanttide-gallery-of-learning-management) |
 
 ## 许可
 

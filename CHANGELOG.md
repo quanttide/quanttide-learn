@@ -10,6 +10,15 @@
 
 ## [Unreleased]
 
+## [v0.0.2] - 2025-07-14
+
+### 变更
+
+- 核心模型 User 重命名为 Learner（学习者），预留 `user_id` 关联 auth 领域
+- Completion 记录外键 `user_id` 同步更名为 `learner_id`
+
+## [v0.0.1] - 2025-07-14
+
 ### 新增
 
 - 初始化学习管理领域仓库

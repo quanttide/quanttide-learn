@@ -24,6 +24,11 @@
 | `data/context` | 学习管理语境 (git submodule → quanttide-context-of-learning-management) |
 | `data/journal` | 学习管理日志 (git submodule → quanttide-journal-of-learning-management) |
 | `data/intention` | 学习管理意图 (git submodule → quanttide-intention-of-learning-management) |
+| `data/profile` | 学习管理档案 (git submodule → quanttide-profile-of-learning-management) |
+| `data/roadmap` | 学习管理路线图 (git submodule → quanttide-roadmap-of-learning-management) |
+| `data/insight` | 学习管理洞察 (git submodule → quanttide-insight-of-learning-management) |
+| `data/brochure` | 学习管理宣传册 (git submodule → quanttide-brochure-of-learning-management) |
+| `docs/bylaw` | 学习管理章程 (git submodule → quanttide-bylaw-of-learning-management) |
 
 ## 许可
 

@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- 注册子模块：`apps/qtclass`（量潮课堂，与 quanttide-course/apps 共用；学习云与课堂联调）
+
 ## [v0.0.2] - 2026-08-26
 
 ### 变更

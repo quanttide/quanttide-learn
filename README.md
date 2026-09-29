@@ -21,7 +21,7 @@
 | `apps/qtcloud-learn` | 量潮学习云 (git submodule → qtcloud-learn，与 quanttide-course/apps 共用) |
 | `apps/qtclass` | 量潮课堂 (git submodule → qtclass，与 quanttide-course/apps 共用；学习云与课堂联调) |
 | `packages/quanttide-learn-toolkit` | 学习管理工具集 (git submodule) |
-| `examples/default` | 学习管理实验室 (git submodule → quanttide-laboratory-of-learning-management) |
+| `examples/quanttide-learn-lab` | 学习管理实验室 (git submodule → quanttide-learn-lab) |
 | `data/context` | 学习管理语境 (git submodule → quanttide-context-of-learning-management) |
 | `data/journal` | 学习管理日志 (git submodule → quanttide-journal-of-learning-management) |
 | `data/intention` | 学习管理意图 (git submodule → quanttide-intention-of-learning-management) |

@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-learn-lab`（仓 quanttide-laboratory-of-learning-management → quanttide-learn-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtclass`（量潮课堂，与 quanttide-course/apps 共用；学习云与课堂联调）

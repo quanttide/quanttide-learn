@@ -4,9 +4,9 @@
 [submodule "packages/quanttide-learn-toolkit"]
 	path = packages/quanttide-learn-toolkit
 	url = https://github.com/quanttide/quanttide-learn-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-learning-management.git
+[submodule "examples/quanttide-learn-lab"]
+	path = examples/quanttide-learn-lab
+	url = https://github.com/quanttide/quanttide-learn-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-learning-management.git

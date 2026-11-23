@@ -49,3 +49,6 @@
 [submodule "apps/qtclass"]
 	path = apps/qtclass
 	url = https://github.com/quanttide/qtclass.git
+[submodule "data/archive"]
+	path = data/archive
+	url = https://github.com/quanttide/quanttide-archive-of-learning-management.git
